@@ -89,7 +89,7 @@ sections:
     id: solutions
     content:
       items:
-        - title: Build your future-proof website
+        - title: "**Equipamentos:** de Código Aberto Certificados"
           text: As easy as 1, 2, 3!
           feature_icon: check
           features:
